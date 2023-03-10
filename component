@@ -1,0 +1,79 @@
+// npm i react-native-tooltip-alert --save
+// import TooltipAlert from "react-native-tooltip-alert";
+{/* <TooltipAlert
+    height={300}
+    title='Settings'
+    customStyles={{backgroundColor: 'grey'}}
+    closeOnDragDown={true}
+    contentText={
+        <Text>Alerta!</Text>
+    }
+>
+    <View>
+        <Text>Open Tooltip</Text>
+    </View>
+</TooltipAlert> */}
+
+
+
+// https://www.npmjs.com/package/react-native-floating-action
+// npm i react-native-floating-action --save
+// const actions = [
+//   {
+//     text: "Accessibility",
+//     icon: require("./images/ic_accessibility_white.png"),
+//     name: "bt_accessibility",
+//     position: 2
+//   },
+//   {
+//     text: "Language",
+//     icon: require("./images/ic_language_white.png"),
+//     name: "bt_language",
+//     position: 1
+//   },
+//   {
+//     text: "Location",
+//     icon: require("./images/ic_room_white.png"),
+//     name: "bt_room",
+//     position: 3
+//   },
+//   {
+//     text: "Video",
+//     icon: require("./images/ic_videocam_white.png"),
+//     name: "bt_videocam",
+//     position: 4
+//   }
+// ];
+// <View style={styles.container}>
+//   <Text style={styles.example}>Floating Action example</Text>
+//   <FloatingAction
+//     actions={actions}
+//     onPressItem={name => {
+//       console.log(`selected button: ${name}`);
+//     }}
+//   />
+// </View>
+
+
+
+// https://www.npmjs.com/package/react-native-floating-action-menu
+// npm install --save react-native-floating-action-menu
+// import { FloatingMenu } from 'react-native-floating-action-menu';
+
+// const items = [
+//   { label: 'Do a little dance' },
+//   { label: 'Make a lil love' },
+//   { label: 'Get down tonight' },
+// ];
+
+// <FloatingMenu
+//   items={items}
+//   isOpen={this.state.isMenuOpen}
+//   onMenuToggle={this.handleMenuToggle}
+//   onItemPress={this.handleItemPress}
+//>
+
+
+
+// color -> blue: #1253bc
+
